@@ -1,0 +1,35 @@
+
+//
+Constrients :
+	primary key
+	unique
+	check
+	default 
+	forgn key 
+	not null 
+	
+types of 
+	DDL :Drop Rename Create Aalter Truncate
+	DML : update  insert , delete
+	DRL : select 
+	DCL : commit , rollback 
+	TCL : grant , revoke 
+	
+Join : 
+	left 
+	right 
+	full 
+	inner
+
+operators :
+	in 
+	like 
+	between 
+	ordry by 
+	having 
+	where
+inner query 
+ 
+				
+	
+	

@@ -1,0 +1,31 @@
+import java.sql.*;
+import java.util.*;
+
+public class InsertDemo {
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}
+
+// 5 stpes 
+//load the driver  : which database we are using 
+// create the connection 
+// create the statment 
+// execute the statment 
+//close the connection
+
+
+// id , name , age , salary , desig 
+
+create table Emp(id , name , age , salary , desig);
+
+
+
+
+
+
+

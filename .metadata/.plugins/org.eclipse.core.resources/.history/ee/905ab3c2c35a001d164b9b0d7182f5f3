@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class JdbcCRUDprogram {
+
+	public static void main(String[] args) {
+		
+		do {
+			System.out.println("1) Create");
+			System.out.println("2 ) Display");
+			System.out.println("3) Raise Salary ");
+			System.out.println("4 ) Delete Emp ");
+			System.out.println("5 ) Exit ");
+			
+			Scanner sc= new Scanner(System.in);
+			System.out.print("Enter Choce : ");
+			int ch=sc.nextInt();
+			
+		}while()
+		
+
+	}
+
+}

@@ -1,0 +1,28 @@
+import java.sql.*;
+import java.util.*;
+
+public class InsertDemo {
+
+	public static void main(String[] args) {
+		try {
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		
+	}
+
+}
+
+// 5 stpes 
+//load the driver  : which database we are using 
+// create the connection 
+// create the statment 
+// execute the statment 
+//close the connection
+
+
+
+
+

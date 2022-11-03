@@ -1,0 +1,17 @@
+
+public class InsertDemo {
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}
+
+// 5 stpes 
+//load the driver  : which database we are using 
+// create the connection 
+// create the statment 
+// execute the statment 
+//close the connection

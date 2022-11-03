@@ -1,0 +1,15 @@
+
+public class JdbcCRUDprogram {
+
+	public static void main(String[] args) {
+		
+		do {
+			System.out.println("1) Create");
+			System.out.println("2 ) Display");
+			System.out.println("3) Raise Salary ");
+		}while()
+		
+
+	}
+
+}

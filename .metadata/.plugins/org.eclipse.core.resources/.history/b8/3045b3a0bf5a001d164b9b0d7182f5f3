@@ -1,0 +1,30 @@
+import java.sql.*;
+import java.util.*;
+
+public class InsertDemo {
+
+	public static void main(String[] args) {
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+Connection con = DriverManager.getConnection("Where is database", "username", "root");
+			
+		} catch (Exception e) {
+			System.err.println(e);
+		}
+		
+		
+	}
+
+}
+
+// 5 stpes 
+//load the driver  : which database we are using 
+// create the connection 
+// create the statment 
+// execute the statment 
+//close the connection
+
+
+
+
+

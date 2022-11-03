@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body bgcolor="yellow">
+<marquee onmouseover="stop()" onmouseout="start()">
+<h1 style="color: red">HI Welcome to WebApplcation </h1>
+</marquee>
+	<center>
+		<form action="">
+		ID : <input type="text" name="uid"><br> 
+		NAME :<input type="text" name="uname">
+		AGE :
+		SALARY  :
+		DESIG : 
+		
+		</form>
+	</center>
+</body>
+</html>
